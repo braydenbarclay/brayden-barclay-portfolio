@@ -1,0 +1,8 @@
+title: My Portfolio
+name: Brayden Barclay
+email: braydenb2003@hotmail.com
+
+collections:
+  design:
+  output: true
+  permalink: /:collection/:path/
